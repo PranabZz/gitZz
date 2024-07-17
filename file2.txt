@@ -1,1 +1,3 @@
 okay.. here was the bug now it is solved
+
+there was another bug which is fixed now
